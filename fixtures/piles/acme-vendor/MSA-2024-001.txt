@@ -1,0 +1,24 @@
+MASTER SERVICES AGREEMENT
+Document-ID: MSA-2024-001
+Effective date: 2024-01-01
+Buyer: Northwind Procurement LLC
+Vendor: Acme Cloud Services Inc.
+
+1. Parties
+This Agreement is between Northwind Procurement LLC ("Buyer") and Acme Cloud Services Inc. ("Vendor").
+
+2. Fees
+Buyer shall pay an annual platform fee of USD 120000, invoiced in four equal quarterly amounts of USD 30000.
+
+3. Payment terms
+Invoices are due Net 30 from invoice date.
+
+4. Term
+Initial term is 24 months. The Agreement auto-renews for successive 12-month periods unless either party gives 60 days written notice.
+
+5. Service levels
+Monthly uptime commitment is 99.9 percent. Service credits are 10 percent of the monthly fee for each month below that commitment.
+
+6. Notices
+Notices to Vendor: legal@acme.example
+Notices to Buyer: contracts@northwind.example

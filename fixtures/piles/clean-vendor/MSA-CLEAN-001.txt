@@ -1,0 +1,20 @@
+MASTER SERVICES AGREEMENT
+Document-ID: MSA-CLEAN-001
+Effective date: 2025-01-01
+Buyer: Birchwood Labs LLC
+Vendor: Pixel Grain Inc.
+
+1. Parties
+Birchwood Labs LLC ("Buyer") and Pixel Grain Inc. ("Vendor").
+
+2. Fees
+Annual fee USD 48000, billed monthly at USD 4000.
+
+3. Payment terms
+Net 15.
+
+4. Term
+12 months. No auto-renewal. Agreement ends 2025-12-31 unless a written renewal is signed.
+
+5. Service levels
+Uptime 99.5 percent.

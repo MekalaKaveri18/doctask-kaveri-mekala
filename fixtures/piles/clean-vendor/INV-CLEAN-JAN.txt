@@ -1,0 +1,9 @@
+INVOICE
+Document-ID: INV-CLEAN-JAN
+Invoice date: 2025-01-05
+Buyer: Birchwood Labs LLC
+Vendor: Pixel Grain Inc.
+Period: 2025-01-01 to 2025-01-31
+Amount due: USD 4000
+Payment terms stated on invoice: Net 15
+Related contract: MSA-CLEAN-001

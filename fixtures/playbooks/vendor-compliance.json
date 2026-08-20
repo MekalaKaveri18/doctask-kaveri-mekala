@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "id": "net-terms-cap",
+      "title": "Payment terms must not exceed Net 30 unless an approved amendment says otherwise",
+      "severity": "high",
+      "kind": "max_net_days",
+      "max": 30
+    },
+    {
+      "id": "invoice-matches-fee",
+      "title": "Invoice line amounts must match the contracted annual or monthly fee",
+      "severity": "high",
+      "kind": "invoice_matches_fee"
+    },
+    {
+      "id": "named-parties",
+      "title": "Every document must name both the buyer and the vendor",
+      "severity": "medium",
+      "kind": "named_parties"
+    },
+    {
+      "id": "amendment-supersession",
+      "title": "An amendment must cite the MSA section it changes",
+      "severity": "medium",
+      "kind": "amendment_cites_section"
+    },
+    {
+      "id": "no-auto-renew-silence",
+      "title": "Auto-renewal, if present, must state notice period in days",
+      "severity": "low",
+      "kind": "autorenew_notice"
+    }
+  ]
+}

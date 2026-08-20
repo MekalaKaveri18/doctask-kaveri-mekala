@@ -1,0 +1,11 @@
+INVOICE
+Document-ID: INV-2024-Q3
+Invoice date: 2024-07-15
+Buyer: Northwind Procurement LLC
+Vendor: Acme Cloud Services Inc.
+Period: 2024-07-01 to 2024-09-30
+Amount due: USD 40000
+Payment terms stated on invoice: Net 45
+Related contract: MSA-2024-001 as amended by AMD-2024-001
+
+Notes: Amount and terms disagree with Amendment No. 1, which set quarterly invoices at USD 33750 and kept Net 30.

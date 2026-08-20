@@ -1,0 +1,13 @@
+AMENDMENT NO. 1 TO MSA-2024-001
+Document-ID: AMD-2024-001
+Effective date: 2024-07-01
+Buyer: Northwind Procurement LLC
+Vendor: Acme Cloud Services Inc.
+
+This Amendment changes Section 2 (Fees) of MSA-2024-001.
+
+From the effective date, the annual platform fee is USD 135000, invoiced in four equal quarterly amounts of USD 33750.
+
+Payment terms in Section 3 remain Net 30.
+
+All other terms of the MSA remain in force.
