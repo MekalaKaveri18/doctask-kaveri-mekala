@@ -71,6 +71,4 @@ PostgreSQL + pgvector is the Docker path. Tests use SQLite and hash embeddings s
 
 No OCR of scanned image-only PDFs. Watcher is a directory poll under `data/watch/<pile_id>`, not a proprietary DMS. Those cuts are defended in PROGRESS.md.
 
-## Private GitHub
 
-Repository name: `doctask-kaveri-mekala` (no SuperDocs in the name). Invite `o-kadam`.
